@@ -1,3 +1,7 @@
+/* Project Name: COMP308 Assignment2
+   Name: Kranthi kumar G J
+   Student id: 300976308
+   Date: 05-APR-2019 */
 
 let mongoose = require('mongoose');
 
