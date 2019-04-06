@@ -1,4 +1,7 @@
-
+/* Project Name: COMP308 Assignment2
+   Name: Kranthi kumar G J
+   Student id: 300976308
+   Date: 05-APR-2019 */
 
 module.exports = {
     //"URI" : "mongodb://kranthi93:abc123@ds064278.mlab.com:64278/comp308-lesson4a",
